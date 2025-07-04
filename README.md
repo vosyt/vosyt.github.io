@@ -7,4 +7,5 @@ This was created in conjunction with an academic paper for the class AP Research
 This project was shown to multiple classrooms to collect information on how many students a specific solution. 
 
 Developed with the usage of the Godot game engine, and playable through GitHub Pages.
-You can access this demonstration [here](vosyt.github.io)
+Tested on Firefox and Chromium-based browsers, I cannot gurantee the compatibility on anything else. 
+You can access this demonstration [here](https://vosyt.github.io)
